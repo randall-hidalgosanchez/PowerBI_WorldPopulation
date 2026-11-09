@@ -46,6 +46,6 @@ powerbi-report/
 
 ## 🖼️ Dashboard Preview
 
-The screenshot below shows the completed report canvas. Open the `.pbix` file in Power BI Desktop to interact with the slicer and visuals.
+The screenshot below shows the completed report canvas. 
 
 ![World Population dashboard canvas](images/report_screenshot.jpg)
